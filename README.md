@@ -15,7 +15,7 @@ Este projeto foi desenvolvido para atender ao desafio de criar um formulário de
 ![Formulário Vazio](https://imgur.com/rtHaLuM.png)
 
 ### 2. Formulário Preenchido
-![Formulário Vazio](https://imgur.com/rtHaLuM.png)
+![Formulário Vazio](https://i.imgur.com/tzO3Jrr.png)
 
 ### 3. Seleção de Estado e Cidade
 Ao selecionar um estado, as cidades disponíveis são atualizadas automaticamente.
