@@ -12,7 +12,7 @@ Este projeto foi desenvolvido para atender ao desafio de criar um formulário de
 
 ## Funcionalidades
 ### 1. Formulário Vazio
-![Formulário Vazio](https://imgur.com/rtHaLuM)
+![Formulário Vazio](https://imgur.com/rtHaLuM.png)
 
 ### 2. Seleção de Estado e Cidade
 Ao selecionar um estado, as cidades disponíveis são atualizadas automaticamente.
