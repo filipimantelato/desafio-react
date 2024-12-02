@@ -20,7 +20,9 @@ Este projeto foi desenvolvido para atender ao desafio de criar um formulário de
 ### 3. Seleção de Estado e Cidade
 Ao selecionar um estado, as cidades disponíveis são atualizadas automaticamente.
 ![Seleção de Estado - Rio de Janeiro](https://i.imgur.com/I9SK3Sn.png)
+
 ![Seleção de Estado - São Paulo](https://i.imgur.com/G9jKYNC.png)
+
 ![Seleção de Estado - Minas Gerais](https://i.imgur.com/Pygn0qu.png)
 
 ### 4. Envio do Formulário
