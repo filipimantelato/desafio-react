@@ -33,3 +33,15 @@ Ao clicar em "Gravar", os dados são exibidos em um pop-up e os campos do formul
 1. Clone o repositório:
    ```bash
    git clone https://github.com/filipimantelato/desafio-react.git
+
+2. Navegue até a pasta do projeto:
+   ```bash
+   cd desafio-react
+
+3. Instale as dependências:
+   ```bash
+   npm install
+
+4. Execute o projeto:
+   ```bash
+   npm start
